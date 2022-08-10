@@ -5,6 +5,7 @@
   },
   "remediateSettings": {
     "enableRenovate": true,
+    "baseBranches": ["svg-alpha"],
     "extends": [
       "config:base",
       "group:all", 
